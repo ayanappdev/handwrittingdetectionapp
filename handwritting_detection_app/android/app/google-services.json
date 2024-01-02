@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194701161941",
+    "project_id": "handyconnect-18a87",
+    "storage_bucket": "handyconnect-18a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194701161941:android:633924b3d3d2fb4a14395c",
+        "android_client_info": {
+          "package_name": "com.example.handy_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194701161941-2q1f7693hvnvrk74p0ni2v0olv9n7mfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handy_connect",
+            "certificate_hash": "734e6a3c4b07fdbc8b58ffb2e1ee8145c4cc2729"
+          }
+        },
+        {
+          "client_id": "194701161941-fug48p9kpiejv77cpq7428mojmjb28v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgk650alul1dLomG_LdPluyB3t0Ac63k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194701161941-fug48p9kpiejv77cpq7428mojmjb28v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
